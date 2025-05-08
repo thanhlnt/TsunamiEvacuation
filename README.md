@@ -1,4 +1,4 @@
-# Tsunami Evacuation
+# A multi-agent model for tsunami evacuation
 
 A tsunami evacuation model, built on top of NetLogo platform, for Da Nang city, Viet Nam
 
